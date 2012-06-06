@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="/home/kfickel/JAVA-Projekte/JumpAndRunArchiv/panel.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="Zeichnung.svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter4027">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.2847944"
+         id="feGaussianBlur4029" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4275">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5087147"
+         id="feGaussianBlur4277" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="364.6217"
+     inkscape:cy="36.514746"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36218)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4219"
+       y="967.15839"
+       x="13.521542"
+       style="font-size:94.30421448px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:UnPilgi;-inkscape-font-specification:UnPilgi Bold"
+         y="967.15839"
+         x="13.521542"
+         id="tspan4221"
+         sodipodi:role="line">Java-Jumper</tspan></text>
+    <image
+       y="885.9408"
+       x="0"
+       id="image3058"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABHNCSVQICAgIfAhkiAAAAH1JREFU SIndlUsKgDAMBX3i/a8cNyLBNs/UxEA7yxYy5NdiMxARse4sAKB7niVgouYgIrBEezSghxLJnVZG mZrgV9nwl0CL6jJ5kj1h60zX4hLrofuKK1j0RT6yg/eYu/G6CnNnoqGNH4GNfe2nxWCj7Fnc10wy doVKspbxBItRNCYF7oSRAAAAAElFTkSuQmCC "
+       height="166.42136"
+       width="166.42136"
+       style="opacity:0.6269113;fill:#000000;fill-opacity:1;filter:url(#filter4027)"
+       transform="matrix(1.101058,0.35109614,-0.35109614,1.101058,935.73165,-126.10978)" />
+    <image
+       y="619.43951"
+       x="853.1925"
+       id="image3045"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABHNCSVQICAgIfAhkiAAAAUJJREFU SImtlL0uBUEYhp8RzYnIQSG0iMrWCjfgBtyClahcA/2pJLgFUejcgEInoTrRH4VwDpFDNQqzk505 Mzs/u2+yxczuvs+8u9/3CfySDfd8EtGbgDw62E8mXFzfOT1dEC9ge73fCBmOJk7QXOQhtclwNEl5 BYD55DcUrFIoHZixJEDOv7ClPpn2ryBZPzoSJmaSdCwjiS0pny7jnYqS470FvT6//za8w9W1c/h/ 1TT+eNdXXVtri06LIGRp82x2b3kleLYkyPh2FZ6vvCA7jUtZfWKDciFCFGVn1daUxChvX7WJomwF gVrvxJjlQhhEmJy0hdja7fWM9cN06ntUoj550qgPmPLy+gVgdD9klnAFqqdSo8SpVn1ipfLNQf8N pZReyYZoWH/jVC9+Ph8B+H27ifKIgYTSBD1C1dXJaPkDhXlaA19Ah4AAAAAASUVORK5CYII= "
+       height="192.32991"
+       width="192.32991"
+       transform="matrix(0.95273571,0.30380038,-0.30380038,0.95273571,0,0)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4219-4"
+       y="926.09344"
+       x="350.9296"
+       style="font-size:38.20847702px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#808080;font-family:UnPilgi;-inkscape-font-specification:UnPilgi Bold"
+         y="926.09344"
+         x="350.9296"
+         id="tspan4221-8"
+         sodipodi:role="line">download!</tspan></text>
+  </g>
+</svg>

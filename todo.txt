@@ -1,0 +1,18 @@
+[TODO für officialBuild 20] {Version 0.4a}
+
+- Bessere Spieler-Animationen [DONE]
+- Focus-Request am Anfang des Spiels [DONE]
+- Starter-Klasse aufräumen [DONE]
+- Lade-Bild zeichnen [DONE]
+- Neues Bewegungssystem [DONE]
+
+- Aufteilung in Archive [WORKING]
+
+- Besserer Spieler-Animations-Timer (ggf. mit doUpdate / doTick) [THINKING]
+- Neue Kollisionsboxklasse [THINKING]
+- Benutzung der Vektoren-Klasse [THINKING]
+
+- Lade-Klasse erstellen
+- Spiel-Stadien hinzufügen
+- Neuer Timer
+- Erstellung von neuen Leveln mit der neuen Klasse :D

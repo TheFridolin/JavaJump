@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="/home/kfickel/javajumpericon.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="Neues Dokument 1">
+  <defs
+     id="defs4">
+    <filter
+       id="filter3781"
+       inkscape:label="Invert"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       y="0"
+       x="0"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3783"
+         type="hueRotate"
+         values="180"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3785" />
+      <feColorMatrix
+         id="feColorMatrix3787"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3789"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3917"
+       x="0"
+       width="1"
+       y="0"
+       height="1"
+       inkscape:label="Invert"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.9479162"
+         id="feGaussianBlur3919"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3961" />
+      <feColorMatrix
+         id="feColorMatrix3963"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3965"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3945"
+       x="0"
+       width="1"
+       y="0"
+       height="1"
+       inkscape:label="Invert"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3270392"
+         id="feGaussianBlur3947"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3967" />
+      <feColorMatrix
+         id="feColorMatrix3969"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3971"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="103.6098"
+     inkscape:cy="154.42747"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="840"
+     inkscape:window-height="402"
+     inkscape:window-x="128"
+     inkscape:window-y="197"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36218)">
+    <image
+       y="1027.3622"
+       x="0"
+       id="image2993"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABHNCSVQICAgIfAhkiAAAAHhJREFU
+SIndlUEOwCAIBNX0/1+2p5KmskAFSXSONdkJutZaMF1YQ1Tzx0kBzOQkHgGb2wICVVIk77EitonN
+fyQrBCRKneRLaMPOadf5ElSIKaxhrj/ytSB8YPuDp13YfhJCO/g/wKamP1oSUpXVDMsk7ruiSUIu
+4w2wmw0s1d+0lAAAAABJRU5ErkJggg==
+"
+       height="25"
+       width="25"
+       transform="matrix(9.606921,0,0,9.606921,29.913488,-9173.5117)"
+       style="filter:url(#filter3945)" />
+    <image
+       y="696.2757"
+       x="29.91349"
+       id="image3004"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABHNCSVQICAgIfAhkiAAAAUJJREFU
+SImtlL0uBUEYhp8RzYnIQSG0iMrWCjfgBtyClahcA/2pJLgFUejcgEInoTrRH4VwDpFDNQqzk505
+Mzs/u2+yxczuvs+8u9/3CfySDfd8EtGbgDw62E8mXFzfOT1dEC9ge73fCBmOJk7QXOQhtclwNEl5
+BYD55DcUrFIoHZixJEDOv7ClPpn2ryBZPzoSJmaSdCwjiS0pny7jnYqS470FvT6//za8w9W1c/h/
+1TT+eNdXXVtri06LIGRp82x2b3kleLYkyPh2FZ6vvCA7jUtZfWKDciFCFGVn1daUxChvX7WJomwF
+gVrvxJjlQhhEmJy0hdja7fWM9cN06ntUoj550qgPmPLy+gVgdD9klnAFqqdSo8SpVn1ipfLNQf8N
+pZReyYZoWH/jVC9+Ph8B+H27ifKIgYTSBD1C1dXJaPkDhXlaA19Ah4AAAAAASUVORK5CYII=
+"
+       height="240.17302"
+       width="240.17302" />
+    <text
+       xml:space="preserve"
+       style="font-size:48.50178528000000000px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic;filter:url(#filter3917)"
+       x="15.043565"
+       y="1002.3699"
+       id="text3861"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3863"
+         x="15.043565"
+         y="1002.3699"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:UnPilgi;-inkscape-font-specification:UnPilgi Bold Italic">JavaJumper</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3851"
+       y="1002.3699"
+       x="15.043565"
+       style="font-size:48.50178528px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:UnPilgi;-inkscape-font-specification:UnPilgi Bold Italic"
+         y="1002.3699"
+         x="15.043565"
+         id="tspan3853"
+         sodipodi:role="line">JavaJumper</tspan></text>
+  </g>
+</svg>
